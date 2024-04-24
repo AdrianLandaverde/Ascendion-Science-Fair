@@ -8,6 +8,9 @@ Within America’s Arctic, the remarkably productive waters of the Bering Sea at
 
 The Arctic, including the Bering, Beaufort and Chukchi seas, now faces an uncertain future due to climate change, mining, shipping, oil and gas development, and overfishing.
 
+CONTINENT: North America
+SPECIES: Polar bear, Arctic wolf, Arctic fox, Pacific salmon, Seals
+
 ## %SPECIES
 
 The main species are:
