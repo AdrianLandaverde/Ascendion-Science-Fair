@@ -68,7 +68,7 @@ Some Arctic regions contain valuable minerals, including copper, gold, and coal.
 
 Climate change has brought on longer open water seasons, which coupled with the growing pressures of globalization, means more of the Arctic’s waterways are opening for travel and commercial transportation. Ship traffic in the Bering Strait alone, the narrow waterway between Alaska and Russia, is likely to increase in the coming years. More ships means a greater risk of wrecks, spills, noise, pollution, and the introduction of non-native species. Still, much of the Arctic Ocean has not been adequately surveyed and there a lot of work to be done to establish new routing and regulations.
 
-### THREATS: UNSUSTAINABLE FISHING
+### %THREATS: UNSUSTAINABLE FISHING
 
 The Arctic has four of the world’s 10 major fisheries, including salmon and pollock, along with a substantial amount of community-based and subsistence fishing. Access to fishing is a significant opportunity for Arctic peoples but climate change and the world’s growing appetite for fish creates new stresses on the ocean. WWF supports proactive fisheries managers of Alaska’s waters who have prohibited the expansion of trawl fisheries into the northern Bering Sea until fish stocks can be understood and managed sustainably.
 
